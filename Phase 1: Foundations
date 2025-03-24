@@ -1,0 +1,5 @@
+# 01_Hello_Wiggle.py
+# This is the first step in the Scratch-to-Software-Dev journey.
+# A simple program to print "Hello, Wiggle!"
+
+print("Hello, Wiggle!")
